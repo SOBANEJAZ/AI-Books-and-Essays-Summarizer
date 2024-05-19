@@ -1,0 +1,398 @@
+
+My First Million Podcast
+Asking My Friend How He Went From $0
+To +$100M Before Age 30
+Interview with Syed Balkhi
+[00:01:14.750] - Shaan Puri
+So you're an amazing guy. So let me just set the table here for people. Let me just give you a little... Let
+me just tease everybody with the appetizer. So I think you've done something that I don't even know five
+other people on Earth who have done what you've done, which is that you've basically bootstrap a
+unicorn. You've bootstrapped a billion-dollar company. You're only 32 years old. So you did this by 32. You
+also didn't invent the next big thing. It's not like you did this because you're super genius. You're not like
+Vitalik, creating Ethereum on the blockchain or something crazy like that. You just did a very specific set
+of prudent, smart actions, and it just added up in an amazing way. We're going to talk about it. But also, I
+didn't know shit about you. Sam's known you for a little while. He brought you up on the pod a while back.
+He goes, I know this guy or I met this guy. He's really interesting. He does this WordPress stuff. Have you
+seen him? And I was like, No, we went to your personal website. I don't know if you ever got this clip, but
+way back in the day, we went to your personal website.We were talking about you, but we didn't know too
+much. Then we do Camp MFM, which was my basketball fantasy camp. We're invited 25 other founders.
+We had an NBA guy come basically treat us like we were pretend we're a pro for the weekend. When we
+were there, there's so many people to get to know again. I didn't really get to know everybody at the same
+time. But then Mr. Beast did something amazing. One night we were all in the kitchen, basically. We're all
+hungry after basketball. And Mr. Beast just sets a chair in the middle of the room and he goes, I don't
+know who any of you guys are because he's like, We've just been playing basketball all day and now I'm
+curious. Like, Who the hell are you guys? You tech nerds, basically. And he's like, Sit out of this chair. You
+sit out. And then he would just interrogate that person. All right, what do you do? Who are you? All right,
+how does that work? Is that big? What's your dream? Okay, cool. And then he was like, Go to the next
+person. And I think you were maybe the third or fourth person in the hot seat. And I was like, Oh, this is
+great. I actually don't know too much of Syed's story. And then you just blew us away. You blew us away.
+Your story was so good. Mr. Beast, while he was interrogating you, I thought it was just like the perfect
+interview. If we had just recorded that podcast, I would have been happy. So we're just going to try to
+recreate that moment right now.
+[00:03:36.030] - Sam Parr
+Well, and Syed, you are one of the quieter, more humbler people there. Probably the most impressive in
+terms of traditional business accomplishments. And it was very fascinating what you've done. I basically
+heard about you through my friend, Nevel Madora. And what I know about you is that you had this blog
+called WP Beginner, which wrote really a ton of articles. Some of it really simple. Like, how do I set up a
+WordPress site? And I think that ended up getting, or still does, has a ton of traffic. And then if I remember
+correctly, and this is just from an outsider's perspective, you'll have to tell me if I'm right or wrong, you
+basically started buying different WordPress plugins that I imagine you saw were popular on your blog. So
+it was like, how do I set up a form to capture emails on my WordPress blog? And you probably got lots of
+traffic and you're like, oh, I should just go buy one of these. Or here are the five best plugins for this thing,
+or here's the five best themes. And if you put your cursor over the links on WP beginner, you'll see which
+of the links are affiliate. And I'm guessing that of the top five, let's say, forms for WordPress based off the
+URL, you own three of the top five. And through that, you've built this into a business. By the way, you've
+never told me. I'm just guessing that makes high tens of millions of dollars in revenue.
+[00:04:59.630] - Shaan Puri
+I don't know, Sam. Not tens of millions. Nine figures of revenue. Over $100 million.
+[00:05:06.540] - Sam Parr
+Of revenue. Oh, I did not know that. Okay. Wow.
+[00:05:08.960] - Shaan Puri
+So just to paint the picture here, you have WP Engine and we'll talk about how... Sorry.
+[00:05:13.990] - Syed Balkhi
+Wp beginner.
+[00:05:15.060] - Shaan Puri
+So WP beginner, and we'll talk about how you got to that. But that's the content site. That's just providing
+free help content to other people like you who are trying to make sites in the WordPress ecosystem.
+That's the mainstay. And so I'll draw an analogy here because we've had Andrew Wilkinson on the pod, I
+don't know, a dozen times or something. He's probably one of the most famous guests and most favorite
+guests of our community. You have a business that's a lot like his. He's got a portfolio of companies.
+You've got a portfolio of companies. He had Metalab, which was his core business, CashCow thing that
+allowed him to buy these others. You had your WordPress site, the content site that was your core
+engine. But I think your model actually might be a little bit better. That's no knock on Andrew. It's just to
+get people excited here. So basically, you, I think, have a more one ecosystem. You're like, Okay, I'm
+going to dominate this WordPress ecosystem. The good thing is that WordPress, I think, powers like 30 or
+40 % of all websites. So it's huge. It's basically like a huge chunk of the Internet. And then all your stuff fits
+together. So you have one customer, they're trying to make a successful website and grow and solve
+other problems. You're like, Great. I have the content that will help you. Then I have the tools that will help
+you. And you either buy them or you build them. And you've created this portfolio that now does nine
+figures of revenue, probably worth a billion dollars. You own the whole thing yourself with no outside
+investors. You're only 32 years old. You've built an amazing thing. So that's just a sketch out, like the
+blueprint here for what you've done. Sam, would you add anything to that description?
+[00:06:56.980] - Sam Parr
+Well, then there's all his side hobby stuff, which I read his annual report and he's like, I bought a gas
+station or I bought eight or ten gas stations. So that's a whole other conversation. But yeah, that's about it.
+[00:07:09.210] - Shawn Puri
+Let's do a quick thing on the Origin story so that people have it. You told me once on the phone you said, I
+think you were doing consulting or something. You had an agency. You were like, I was helping people
+make websites and I was building CRMs or whatever for them. Then WordPress came out and I was like,
+Oh, this is way better. They should be using WordPress. You just were a service agency, right? Then
+WordPress became your core service. Then you're like, Okay, I'm just going to help people make
+WordPress sites for their business. Is that right?
+[00:07:37.760] - Syed Balkhi
+Pretty much. Remember, the very first websites that I built were online proxies because I wanted to play
+games in school and I was making ad revenue on proxies and some arcade turnkey sites and I was
+helping small other local businesses set up their websites. I tried making my own CMS with PHP. By the
+way, I can code, I'm not the best at it. I would say now I probably suck at it.
+[00:08:02.260] - Sam Parr
+What age was this?
+[00:08:05.060] - Syed Balkhi
+Thirteen, 14. I would build these websites super cheap, call it $250, $300, I would make you a website
+back in the day. But what happened is that these clients would always rely on me to make changes to it,
+changes to the websites. As I started doing consulting at a bigger scale, I didn't want to do these small
+end things. I discovered WordPress around this time. This was 2006. I said, WordPress was only an
+inception for three years. Wordpress started in 2003, so I discovered it in 2006. To put it in perspective,
+I'm 32 now. I've been in WordPress half of my life. The result is compounding in one thing for half of my
+life now.
+[00:08:53.200] - Shaan Puri
+By the way, you're 13, 14 doing this. Are you at the dinner table at night being like, My clients are paining
+the ass right now, mom. What are you saying at home? And also, how are these people finding you? Are
+they coming to your middle school and you're handing out flyers? What's going on?
+[00:09:08.070] - Syed Balkhi
+No. We moved from Pakistan to US when I was 12. My dad had a mechanical engineering degree, but it
+did not validate when he came to US. So he was working 16 hours a day as a gas station clerk, attendant
+just swiping things. Sixteen hours a day, could you not? Every day, Monday to Friday. And on the
+weekend, he had his third job. So I didn't really see my dad. My mom was busy because there's three of
+us and the fourth one on the way. So my youngest brother was born in US. So there was not many dinner
+conversations happening. I wanted to figure out a way to have some chunk of change in my pocket so I
+can buy junk food like Mountain Dew and Kit Kat and Snickers and all the shit that you buy when you're in
+high school.
+[00:09:55.060] - Shaan Puri
+Dude, your dad was at the gas station, man. You had the hookup. You just needed to ask. He was not
+cutting you any breaks there.
+[00:10:03.210] - Syed Balkhi
+No way. My dad would never do that. By the.
+[00:10:05.970] - Shaan Puri
+Way, you went to high school at age 12 also, right?
+[00:10:09.360] - Syed Balkhi
+Yeah, I started. I moved here. I had just finished seventh grade in Pakistan, and I came here in March.
+This two-month gap, the school system is like, Well, we can put you in eighth grade. In worst case
+scenario, you'll repeat eighth grade because that's where you're supposed to be in any ways. But our
+education system in Pakistan is far better than the one we have here in US. They're like, You can go to
+high school. I'm like 12 in high school. The youngest person in school, I did not speak English that well. I
+would say probably very little English. I knew how to read English because we were taught alphabets and
+such, but my communication skills were not there. That was a pretty challenging time for me. I spent most
+of the time in the library. During lunchtime, I was in the library and I wanted to play games because I'm
+like, I can't talk to humans. I would just play on the computer. Those game sites were blocked. I'm like,
+How do you unblock this thing? And that drove me down. In terms of how I was getting clients, it was
+through these forums online.You had forums like the DN Forum, Digital Point, NamePros, bunch of these
+OG communities online where you can get business. And my cousin got me into one of those.
+[00:11:20.030] - Shaan Puri
+They don't know you're 13. You're just a guy.
+[00:11:21.630] - Syed Balkhi
+In a forum. No. We had a family friend who needed a website and they had a local business. They knew
+how old I was and they're like, Oh, you can do it. I'll pay you $300 to build my website. I'm like, Okay,
+sounds good. And then that's how that funnel started.
+[00:11:36.710] - Shaan Puri
+You're doing sites, you're trying to make your own CMS, you discover WordPress, you're like, Oh, this is
+way better. Here's a CMS out of the box. What becomes the aha moment and when do you create the
+blog?
+[00:11:46.860] - Syed Balkhi
+I had discovered WordPress, moved these clients over. I had affiliate sites. I was doing affiliate promos at
+the time. I was discovering this. I had directories that I was telling you about earlier. I wanted to get more
+traffic, so I created these Myspace profiles, they were fake profiles, and got hundreds of thousands of
+followers and I would send both DMs, the cool that which were called bulletins on Myspace. I would just
+wanted more traffic and I went down the rabbit hole of SEO, which brought me to WordPress because
+WordPress was dynamic content, so I added the blogs to the directories, started using WordPress for the
+clients. I had the social media profiles on and stumbled upon that were superpower users and such.
+Essentially, when I wanted to get rid of this business, the consulting business, I wanted to figure out how
+do you do this. I asked other agency owners and they're like, Well, we just have these PDFs that we give
+to our clients. I'm like, But WordPress updates all the time. How do you keep those PDFs updated?
+They're like, Oh, no, we update the PDFs. I'm like, That's dumb. You should use WordPress to update
+those documentation.
+[00:12:56.210] - Shaan Puri
+Essentially, WCBeginner started that way. It was the unofficial documentation for WordPress. Now,
+WordPress had documentation, but it was written for developers by developers. Nothing was for business
+owners.
+[00:13:07.420] - Sam Parr
+And begin- And what year was this?
+[00:13:09.250] - Syed Balkhi
+2009.
+[00:13:10.370] - Shaan Puri
+Well, one good point here is that that's now six years after WordPress started and you're making the
+beginner site, and there really wasn't a great one. Most people, I think, there's a lesson I've seen many,
+many times as we talk to different guests, which is sometimes you feel like you're late, but you're rarely
+ever actually late to the wave. And Kevin Van Trump told us this one time. He goes, For all the best
+things, you always get a second turn to get on the train. You feel like you're late. You feel like you missed
+it. But often you're not that late, actually. Don't talk yourself out of it. There's almost always another
+chance to hop on.
+[00:13:46.410] - Sam Parr
+According to SimilarWeb, right now you get like two or three million visits a month. The early website,
+shockingly, doesn't look significantly different than how it looks now. You nailed it right out the gate. It's
+like... It was a simple website where you just have articles about picking the right name, how to install
+WordPress, selecting the right theme, picking the right web hosting. But were you writing this stuff?
+Because I know you're an English as a second language person. So are you actually writing these
+articles? Because a lot of them are long. Like, look, 55 of the most wanted WordPress tips, tricks, and
+hacks.
+[00:14:21.880] - Sam Parr
+Are pretty in-depth articles as well as you're playing the game of SEO and you clearly understand
+English. Yeah.
+[00:14:30.510] - Syed Balkhi
+By this time, I was already in college. I started high school at 12, started college at 16. By that time, my
+English had gotten much, much better. I was writing these articles on WP beginner. I had a team of two
+other people that were helping me with the website. The website looks similar now and what it was in
+2009. There was a period when I changed it and there was a mistake. I changed the color scheme too
+much and the audience were like they didn't resonate with it. I changed it all back and haven't changed it
+since then. Because the big lesson was big companies don't really change their stuff because they know
+if it's working, don't break it. If it's not broke, don't fix it. Don't interrupt compounding unnecessarily, as
+Charlie Munger says. I made it go back to what it looks like, and it's been that way since 2012.
+[00:15:19.590] - Sam Parr
+And what tools do you use to figure out? Because I imagine most of these articles, you're writing them
+based off of what people are searching for, is that right?
+[00:15:27.790] - Syed Balkhi
+Yes, it's a combination of that and what they're asking us through our contact form, what they're asking us
+in our Facebook group. I think our Facebook group has probably over 90,000 members and support
+requests are coming. So yes, we have our own keyword generator. If you go on WTBeginners, hit in on
+the free tools page is a keyword generator and you can put in anything in there like WordPress and it will
+tell you what people are searching for.
+[00:15:50.570] - Sam Parr
+And you have a lot of comments early on. In 2010, a year or two after starting, you already had 26
+responses. I just clicked on a random article. So you're getting traction. Yeah.
+[00:16:00.030] - Syed Balkhi
+So a couple of things happened that worked out for me. One, do you guys remember dig.Com?
+[00:16:06.820] - Sam Parr
+Yeah.
+[00:16:07.560] - Syed Balkhi
+It was really popular. So I had a power user profile there. One out of two articles that I would submit would
+hit the front page. So of course, I used that to my benefit, and I used that network to my benefit.
+[00:16:19.320] - Shann Puri
+How did you get a power user profile? Because there was legitimate ways and illegitimate ways to do
+that. I'm curious, how did you end up.
+[00:16:25.690] - Syed Balkhi
+Having that? It's just a social circle. There's these engagement pods that you go on, and back in the day
+was on MSN Messenger and AIO. We just had the engagement pods. So if I submit something with a
+group chat and everybody would dump their items in there, and you would upload it. So I was the
+engagement pod.
+[00:16:48.310] - Sam Parr
+And what year did WP beginner cross a million in revenue, in annual revenue? In annual revenue. How
+long did that take?
+[00:16:55.940] - Syed Balkhi
+Maybe a year and a half or so.
+[00:16:58.670] - Sam Parr
+Oh, damn, you crushed it.
+[00:16:59.810] - Syed Balkhi
+Right Yeah. We had a good revenue stream. Let me take a step back. There was this business and the
+listical business. So collectively passed a million in a year and a half. So about 2000, 11, then 12.
+[00:17:17.270] - Shaan Puri
+And so your early 20s, basically at that stage. You're a millionaire.
+[00:17:21.740] - Syed Balkhi
+That was my first million.
+[00:17:22.990] - Shaan Puri
+How does that feel? You said you grew up... Your dad worked... You told me you were like, Yeah, my dad
+worked at a gas station. In a case study guy says, Gas station. I know you own gas stations. I was like,
+Oh, so your family-owned gas stations. You go, No, no, no. He sat in the gas station. He swiped the cards
+in the gas station. And you're like, Everybody in my family I knew you were either you worked at a gas
+station or you're like, Oh, you're real smart. You get to be a bank teller. That's all you knew in your bubble.
+So tell me two things. How did you get... Because you got to see the possibility of being a business
+person, of being wealthy before you're going to even do it. So how did that happen? And how did it feel
+when... The name of the podcast is my first real name. I'm curious, how did it feel when that first
+happened? Do you remember your reaction?
+[00:18:05.870] - Syed Balkhi
+Yeah. I'll tell you how I knew it was possible. I used to play cricket, which if you have a lot of listeners in
+Pakistan and India, they love cricket. I love cricket. I was playing cricket and there are many leagues in
+US. In South Florida, there was one, and there's many now too. I met this Pakistani gentleman and he
+was a sponsor for our team. He's a crazy cricket fanatic and he became my mentor, and now he's a family
+friend. But back then, I just see this Pakistani guy driving S class and just super humble, super nice. I'm
+like, What do you do? Are you born into money or what's your spiel? I was pretty blunt as a kid. So he's
+like, No, I have real estate. I came to the US with $500 in my pocket or $100 in my pockets. Those typical
+immigrant story. Then he, after we would win the games, he would take us out to eat. Sometimes he
+would invite us all to his house, which is like big mega mansion, 18,000 square foot house. And his kids
+were my age. So we'll just go over to his house, hang out. Sometimes we would go over to his house to
+watch cricket games because they're happening on the other side of the world, so time zones are
+different. In between breaks, I was the one who took interest in his business. His kids were all roaming
+around. I'm like, Tell me how this works. Tell me how this works. He would tell me stories like, Oh, this is
+how I took over a Burger King for free, or This is how I did this, and this is how I started. I absorbed a lot
+of the earlier lessons on business, finance, just hustle from him. He was always super encouraging. He'll
+ask me, How is this going? I felt like I could talk to him about it. That was the early stage of me knowing
+that this is possible because nobody in my family had any wealth. We were just working at gas stations.
+All my uncles, everybody, and if you're really smart, you're working at the teller at the bank. That was a
+motivation part. In terms of how it felt when I hit my first million, you would think it would be the joyous
+moment of, Oh, my God, look at this. I was more scared than anything because is this going to last?
+That's the question that you have. In your 20s, you come from nothing and you have this thing. You're
+like, Is this going to last forever? What am I supposed to be doing? I have no guidance. There was this
+inherent fear. I always lived below my means, way, way, way below my means. When I was in college.
+Did not buy any furniture. I just slept on a floor on a blanket because that's how I grew up in Pakistan. I'm
+just like, I'm not going to buy any furniture. Why waste time and money with this? So in my apartment, I
+had a blanket and I got a desk from Goodwill. So that's what I worked on.
+[00:21:01.380] - Sam Parr
+And what's amazing is you said, I would have thought the first million came sooner than 2012, but
+because in 10 years, you've grown that from one to 100 plus or whatever it is. When were the inflection
+points where you were like, All right, blogging is cool and it's working. Yes. Let's get beyond.
+[00:21:23.290] - Syed Balkhi
+Yeah. So I launched Optin Monster in 2013, list 25 in 2011. These things started really cranking. I had
+some really sweetheart affiliate deals with certain companies that worked out really well for me. That was
+good. In that time, we were coming out of the economy, the recession. There are still some real estate
+deals to be had. I bought my gas station in the first one primarily because I wanted to offset expenses
+with an appreciating asset, which was a lesson I learned from my mentor.
+[00:21:59.610] - Sam Parr
+Yeah, let's talk about that one real quick. Just do a quick little monolog on why did you buy a gas station
+when you found out you were having a kid?
+[00:22:09.210] - Syed Balkhi
+One of the things I learned from my mentor early on, I was like, How do you justify buying a Mercedes?
+Because that's a depreciating asset. He's like, Yeah, but when I drive in this, people think of me better.
+There's impression game, et cetera. How I justify it is I buy something that's an appreciating asset, like
+real estate, and I just use the income from that to pay my lease payment. My principal never disappears. I
+was like, That's a good idea. Your principal continues to appreciate and you're using the income from it to
+offset. It also helps you stay disciplined because you're not going to go overspend your money, because
+normally when you get a raise or something like this, everybody just thinks in monthly payments. So this
+takes you away from the monthly payments mindset into thinking a little bit bigger. So when I was about
+to have my son, I was 26. By this time, guys, I was doing all right. I had all these VC firms reaching out to
+me. I could have had a solid eight-figure exit to a high eight-figure exit. I had offers for that at the time.
+[00:23:18.890] - Sam Parr
+I'm just like- High eight figures as in 90?
+[00:23:22.550] - Syed Balkhi
+As in 70 at the time, 70.
+[00:23:25.110] - Sam
+For WP Beginner?
+[00:23:26.510] - Syed Balkhi
+No, I had Optin Monster at the time, and I had the Gallery Solution at the time and I had WB Forms, I had
+Analytics.
+[00:23:35.110] - Shaan
+Were you close to taking it and how did you decide not to?
+[00:23:39.030] - Syed Balkhi
+Yeah, I definitely thought about it. But then I was like, What would I do afterwards? My son is going to
+grow up seeing me not work because I'm like, I'll be set with that money. I would not go do anything. If
+you have $10 million, $20 million, you put it in the bank and you're like, Hey, this is it. Even after paying
+taxes, I would have a lot more than that. I would be set. So the factor that my wife and I talked about was
+what instilled my work ethic was watching my dad work. And I wanted my son to at least see that.
+[00:24:17.590] - Sam
+What was the multiple on that? To get to 70 million, is it as high as 10X multiple?
+[00:24:24.100] - Syed Balkhi
+At that time? No, it was lower than that.
+[00:24:28.330] - Sam
+So you turn that down I.
+[00:24:30.740] - Syed Balkhi
+Turned that down.
+[00:24:32.080] - Shaan
+You turned it down. You've turned it down because you were like, I want my son to see me work.
+[00:24:37.340] - Syed Balkhi
+Yeah. Also, I wasn't ready to give up my baby. At this time, my son is about to be born, and I'm like, Okay,
+how much does a baby cost? What are the costs of the baby? And you're like, Okay, well, you're going to
+have diapers, you're going to have schooling and this and that. I'm like, Well, now if I buy something that
+gives me at least five or six grand a month, and then that, and then that, and then that, and then the baby
+costs are covered for. It's going to give me $60,000 to $70,000 a year. And now I don't have to think about
+it. And my family is taking care of no matter what happens to me. So yeah, that's what I got for. Baby
+Shower. Most people take the money they make and then they're like, All right, that's what I have to
+spend, and they spend it. What you do from your mentor is you take the money you make, that has to
+now go to buy an appreciating asset that will spit off cash flow, and then you could spend whatever that
+one makes. So it's like a savings program, basically. You go by the gas station, the gas station is going to
+pay you. And you're like, That will pay for this child. I'm not going to provide for my family. This gas station
+is going to provide for my family. I'm going to put food on the table. Dude, it allows me to one, sleep better
+at night and to be more bullish in the deals that I'm doing.
+[00:26:02.720] - Sam
+How many gas stations do you own now?
+[00:26:04.280] - Syed Balkhi
+10.
+[00:26:04.940] - Sam
+And you own a bank, too.
+[00:26:06.620] - Syed Balkhi
+I bought a bank, yes. Wells Fargo.
+[00:26:09.720] - Sam
+Wells Fargo. Because you have a cool blog post where you're like, I used to go to this bank all the time,
+and I decided to buy it this year.
+[00:26:16.490] - Syed Balkhi
+Yeah, I used to ride my bicycle around it. I couldn't go to the bank. I didn't have a bank at the time. I used
+to ride my bicycle around the bank because there was a sports authority there, an office depot there. I
+would just ride my bike into that, and then I bought that building.
+[00:26:27.540] - Sam
+What amazes me is how... I don't know if your similar web estimates are right, but do you say what your
+monthly traffic is on WP beginner?
+[00:26:38.060] - Syed Balkhi
+No. But it's in the millions.
+[00:26:41.610] - Sam
+Okay. So let's just assume that similar web is roughly correct. Two to five million. We'll give a huge range
+a month. That's a lot. That's not that much. What's crazy to me is that, I mean, that's high intent traffic. It's
+likely people who are coming to buy something like they want to in the email software. So they're coming
+for a review. It's just amazing to me that that much traffic has created so much value.
+[00:27:05.750] - Syed Balkhi
+I think when you start your online business, most people think about maybe a CPM model of monetization
+or a CPC model of monetization. There are other and better models of monetization. You can have CPMs,
+you can have CPA, you can have a combination of CPM, CPA. You can have recurring commissions. So
+you're talking.
+[00:27:31.360] - Sam
+About CPM, meaning just $10 per 1,000 visitors for a display ad versus cost per lead or cost per
+acquisition, which is someone buys something, they give you $100 per month if it's a Mailchimp and
+someone's paying $500 a month, they'll say, All right, you get a $100 per month while they're a customer.
+[00:27:50.660] - Syed Balkhi
+Correct. And there are verticals that are not available in WC beginner. Because remember I was telling
+you, I did a lot of affiliate marketing as well. There are verticals that pay you on a lead basis and hundreds
+of dollars. Just for a lead, not for commission as an affiliate, not like you made a sale. Just a lead will get
+you hundreds of dollars. So I did a lot of those, and I still do. So that's a good cash cow. Those verticals
+are available where you can go and promote something and get over $100 in a lead.
+[00:28:24.150] - Sam
+Has the WP beginner revenue grown like the rest of the business? Or is that just like you're like, I'm
+perfectly fine with it just being a steady 10 or $15 million a year thing, and I use, I bet you it's super
+profitable. I'm looking at your team page. I would bet you make 50 % profit or something crazy. And you're
+like, I'm just going to take that profit and buy more stuff, and I'm okay with that being steady.
+[00:28:44.720] - Syed Balkhi
+Pretty much. On a content business, you cannot compound it as much. Eventually, what happens is you
+will hit the traffic mask that you hit, and you can unlock as many levers as you can, but the compounding
+will stop because it's a reoccurring revenue. The person that I referred this year to something is not going
+to compound next year. I'm not going to get that plus new customers, which is what happens in a software
+business, which is recurring revenue. So yes, your assumption is right that while W2Beginner has grown,
+it hasn't grown at the same pace as the software companies. And that's a very big mental shift between
+recurring revenue and reoccurring revenue for all the creators that are listening. Because once you
+understand that, you'll start thinking about your business a little differently. So I took all of our profits and
+invested in software, in tools. I still have niche tools that are not even related to WordPress that I bought
+off of Flippa and sometimes just private outreach because I knew those verticals were going to be
+lucrative because I had a better offer than they were promoting. And I paid one guy, I think $15,000
+upfront. And in the very first month, it made me 18 grand. And now every month it makes me over 10
+grand. And it's pure profit. Nobody touches that tool. I think about that just as good as a gas station
+because my hosting cost for that tool is maybe like $8 a month, maybe 10, and that's it. You can have
+these cash flow income streams that come through. And that's how I was able to buy the business that I
+did without any outside financing, without any outside debt. I was also in a market that wasn't fully mature.
+There was that advantage that those shrewd PEs and VCs are not in the market, they didn't understand
+the market. I could see the potential of a business. I might buy something and you're saying, Well, this
+has no revenue. It just has user base. I can come in and say, Yeah, but if I do this and this, it can be a
+seven-figure business. I might buy something for six figures and then in two years, that thing will make
+seven figures in profit.
